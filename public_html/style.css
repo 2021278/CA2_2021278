@@ -47,6 +47,12 @@ body {
 .blue {
     color: blue;
 }
+.green{
+    color: green;
+}
+.yellow{
+    color: yellow;
+}
 
 .selected {
     border: 2px solid yellow;
